@@ -1,0 +1,8 @@
+[{
+  "id": "edit",
+  "children": [{
+    "id": "genorder",
+    "caption": "生成编号",
+    "command": "genorder"
+  }]
+}]
